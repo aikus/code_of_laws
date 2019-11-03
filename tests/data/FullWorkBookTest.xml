@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+    <rule result-key="fail">
+        <equal field="test" value="2"/>
+    </rule>
+    <rule result-key="success">
+        <equal field="test" value="1"/>
+    </rule>
+</book>
